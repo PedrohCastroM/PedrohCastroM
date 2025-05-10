@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Olá! Eu sou o Pedro Henrique Castro Machado<br>Tenho 16 anos, sou estudante do curso de AMS (Articulação da Formação Profissional Média e Superior) na Fatec, atualmente no segundo ano. Sou apaixonado por tecnologia, especialmente pela área de desenvolvimento front-end, e estou em constante evolução para me tornar um desenvolvedor full stack.<br><br>🛠️ Tenho facilidade de aprendizado, sou organizado, dedicado e empático. Apesar de ser uma pessoa mais introspectiva, me comunico bem e trabalho com responsabilidade e comprometimento em equipe.<br><br>🎯 Estou em busca da minha primeira oportunidade de estágio, onde possa aplicar meus conhecimentos, adquirir novas experiências e crescer profissionalmente contribuindo de forma positiva para os projetos e para o time.
+ Olá! Eu sou o Pedro Henrique Castro Machado<br>Tenho 16 anos, sou estudante do curso de AMS (Articulação da Formação Profissional Média e Superior) na Fatec, atualmente no segundo ano. Sou apaixonado por tecnologia, especialmente pela área de desenvolvimento front-end, e estou em constante evolução para me tornar um desenvolvedor full stack.<br><br>🛠️ Tenho facilidade de aprendizado, sou organizado, dedicado e empático. Apesar de ser uma pessoa mais introspectiva, me comunico bem e trabalho com responsabilidade e comprometimento em equipe.<br><br>🎯 Estou em busca da minha primeira oportunidade de estágio, onde posso aplicar meus conhecimentos, adquirir novas experiências e crescer profissionalmente contribuindo de forma positiva para os projetos e para o tempo.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PedroCastro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedrohcastromachado@hotmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedrohcastromachado@hotmail.com) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
