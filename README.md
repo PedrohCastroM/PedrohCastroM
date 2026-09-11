@@ -1,22 +1,20 @@
-# 👋 Olá, eu sou Pedro Henrique!
+# 👋 Olá, eu sou Pedro Henrique Castro Machado!
 
-🎓 Estudante de **AMS na Fatec**, atualmente no 3º ano.
+🎓 Estudante de **AMS (Articulação Médio e Superior) na Fatec**, atualmente no 3º ano.
 
-💻 Tenho interesse em **Inteligência Artificial, AWS, Desenvolvimento Full Stack e Desenvolvimento Web**.
-
-💼 Atualmente trabalho como **estagiário na Fulltime**, atuando na área de tecnologia e colocando meus conhecimentos em prática.
+💼 Atualmente trabalho como **estagiário na Fulltime**, onde tenho a oportunidade de colocar meus conhecimentos em prática e adquirir experiência profissional na área de tecnologia.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de tecnologia e atualmente trabalho como **estagiário na Fulltime**, onde tenho a oportunidade de desenvolver meus conhecimentos e adquirir experiência profissional na área de tecnologia.
+Sou estudante de tecnologia e estagiário na **Fulltime**, apaixonado por tecnologia e pelo desenvolvimento de soluções através da programação.
 
-Gosto de aprender através da prática, desenvolvendo projetos e buscando entender como as tecnologias funcionam.
+Gosto de aprender na prática, desenvolver projetos e entender como as tecnologias funcionam, sempre buscando evoluir meus conhecimentos e adquirir novas experiências.
 
-Tenho interesse em **Inteligência Artificial** e como objetivo construir minha carreira como **Engenheiro de IA**.
+Durante minha formação, venho desenvolvendo conhecimentos em **desenvolvimento Web, Front-End e Back-End**, trabalhando com diferentes tecnologias e projetos.
 
-Também tenho interesse em **AWS, Cloud Computing, Back-End, Front-End e Desenvolvimento Full Stack**.
+Tenho grande interesse em **Inteligência Artificial** e pretendo, ao longo da minha carreira, me especializar cada vez mais nessa área. Também tenho interesse em **AWS e Cloud Computing**, buscando aprender e desenvolver conhecimentos nessas áreas.
 
 ---
 
@@ -35,52 +33,13 @@ Também tenho interesse em **AWS, Cloud Computing, Back-End, Front-End e Desenvo
 
 ---
 
-## 📚 Atualmente estudando
-
-* 🐍 Python
-* ⚛️ React
-* 🟢 Node.js
-* 🔧 Desenvolvimento Back-End
-* 🧠 Programação Orientada a Objetos
-
----
-
-## ☁️ Áreas de interesse
-
-* 🤖 Inteligência Artificial
-* ☁️ AWS
-* 🌐 Cloud Computing
-* 🔧 Desenvolvimento Back-End
-* 💻 Desenvolvimento Full Stack
-
----
-
-## 🎯 Objetivos
-
-* 💼 Evoluir profissionalmente através da experiência como estagiário
-* 🤖 Aprofundar meus conhecimentos em Inteligência Artificial
-* ☁️ Aprender mais sobre AWS e Cloud Computing
-* 🔧 Evoluir em desenvolvimento Back-End
-* 🧠 Desenvolver projetos relacionados à Inteligência Artificial
-* 🚀 Construir minha carreira como **Engenheiro de IA**
-
----
-
-## 📂 Projetos
-
-Aqui você encontrará projetos desenvolvidos durante minha jornada de estudos e experiência profissional, incluindo aplicações Web, React, Back-End e projetos acadêmicos.
-
-Estou constantemente desenvolvendo novos projetos para colocar meus conhecimentos em prática e aprender novas tecnologias.
-
----
-
 ## 📫 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pedroh-castro/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pedrohcastromachado@hotmail.com">
+  <a href="mailto:[pedrohcastromachado@hotmail.com](mailto:pedrohcastromachado@hotmail.com)">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
