@@ -1,24 +1,24 @@
-# 👋 Olá, eu sou Pedro Henrique Castro Machado!
+# 👋 Hello, I'm Pedro Henrique!
 
-🎓 Estudante de **AMS (Articulação Médio e Superior) na Fatec**, atualmente no 3º ano.
+🎓 Third-year student in **AMS (Integration of Secondary and Higher Education) at Fatec**.
 
-💼 Atualmente trabalho como **estagiário na Fulltime**, onde tenho a oportunidade de colocar meus conhecimentos em prática e adquirir experiência profissional na área de tecnologia.
-
----
-
-## 🚀 Sobre mim
-
-Sou estudante de tecnologia e estagiário na **Fulltime**, apaixonado por tecnologia e pelo desenvolvimento de soluções através da programação.
-
-Gosto de aprender na prática, desenvolver projetos e entender como as tecnologias funcionam, sempre buscando evoluir meus conhecimentos e adquirir novas experiências.
-
-Durante minha formação, venho desenvolvendo conhecimentos em **desenvolvimento Web, Front-End e Back-End**, trabalhando com diferentes tecnologias e projetos.
-
-Tenho grande interesse em **Inteligência Artificial** e pretendo, ao longo da minha carreira, me especializar cada vez mais nessa área. Também tenho interesse em **AWS e Cloud Computing**, buscando aprender e desenvolver conhecimentos nessas áreas.
+💼 I currently work as an **intern at Fulltime**, where I have the opportunity to apply my knowledge in practice and gain professional experience in the technology field.
 
 ---
 
-## 💻 Tecnologias
+## 🚀 About Me
+
+I am a technology student and an intern at **Fulltime**, passionate about technology and developing solutions through programming.
+
+I enjoy learning through practice, developing projects, and understanding how technologies work, always seeking to improve my skills and gain new experiences.
+
+Throughout my education, I have been developing skills in **Web Development, Front-End, and Back-End**, working with different technologies and projects.
+
+I have a strong interest in **Artificial Intelligence** and intend to specialize further in this area throughout my career. I am also interested in **AWS and Cloud Computing**, seeking to expand my knowledge in these fields.
+
+---
+
+## 💻 Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
@@ -33,7 +33,7 @@ Tenho grande interesse em **Inteligência Artificial** e pretendo, ao longo da m
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pedroh-castro/">
@@ -46,4 +46,4 @@ Tenho grande interesse em **Inteligência Artificial** e pretendo, ao longo da m
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Thank you for visiting my profile!
